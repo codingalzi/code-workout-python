@@ -1,0 +1,4 @@
+subject score
+math 95
+eng 86
+science 90

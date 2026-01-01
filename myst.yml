@@ -2,22 +2,25 @@
 version: 1
 project:
   id: bfa66ee1-fd85-4563-8fb7-04c22ec8dbd3
-  # title: 
+  title: null
+  subtitle: "파이썬"
   # description:
   # keywords: []
   # authors: []
   github: https://github.com/codingalzi/code-workout-python
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
+    - file: jupyter-book/intro.md
     - file: jupyter-book/programming.ipynb
+    - file: jupyter-book/programming_v2.md
     - file: jupyter-book/starting.ipynb
     - file: jupyter-book/values.ipynb
 
 site:
   template: book-theme
   options:
-    logo_text: "코딩알지: 파이썬"
+    logo_text: "코딩알지"
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+    logo: codingalzi.png
   parts:
     primary_sidebar_footer: footer.md

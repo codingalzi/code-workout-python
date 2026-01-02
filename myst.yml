@@ -2,19 +2,19 @@
 version: 1
 project:
   id: bfa66ee1-fd85-4563-8fb7-04c22ec8dbd3
-  title: null
-  subtitle: "파이썬"
+  title: '42H: 파이썬'
+  numbering:
+    title: false
+    headings: true
   # description:
   # keywords: []
   # authors: []
   github: https://github.com/codingalzi/code-workout-python
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
-    - file: jupyter-book/intro.md
-    - file: jupyter-book/programming.ipynb
-    - file: jupyter-book/programming_v2.md
-    - file: jupyter-book/starting.ipynb
-    - file: jupyter-book/values.ipynb
+    - file: intro.md
+    - file: programming.md
+    - file: README.md
 
 site:
   template: book-theme

@@ -19,8 +19,8 @@ project:
 site:
   template: book-theme
   options:
-    logo_text: "코딩알지"
-  #   favicon: favicon.ico
-    logo: codingalzi.png
+    # logo_text: "코딩알지"
+    favicon: favicon.ico
+    logo: codingalzi.svg
   parts:
     primary_sidebar_footer: footer.md

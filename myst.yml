@@ -22,7 +22,5 @@ site:
     # logo_text: "코딩알지"
     favicon: favicon.ico
     logo: codingalzi.svg
-    launch_buttons:
-      thebe: true
   parts:
     primary_sidebar_footer: footer.md

@@ -20,7 +20,7 @@
 
 ## 왜 파이썬인가?
 
-세상에는 파이썬 이외에 C, C++, C#, 자바<font size='2'>Java</font>, 자바스크립트<font size='2'>JavaScript</font>, 러스트<font siz='2'>Rust</font> 등 수많은 프로그래밍 언어가 있다.
+세상에는 파이썬 이외에 C, C++, C#, 자바<font size='2'>Java</font>, 자바스크립트<font size='2'>JavaScript</font>, 러스트<font size='2'>Rust</font> 등 수많은 프로그래밍 언어가 있다.
 그중 전 세계적으로 파이썬이 인기를 끄는 이유를 살펴보자.
 
 첫째, 사람의 언어와 닮았다.
@@ -86,7 +86,7 @@
 코드 각각의 줄에서 샵 기호 `#` 뒤에 오는 문장은 왼쪽에 위치한 코드를 설명하는 주석이다.
 주석은 코드 실행과 무관함에 주의한다.
 
-```python
+```{code-cell} python3
 secret = 13      # 비밀 숫자
 guess = 17       # 내가 추측한 숫자
 

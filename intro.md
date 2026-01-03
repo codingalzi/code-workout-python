@@ -33,7 +33,7 @@
 로컬 환경 구축을 원한다면 다음 도구들을 추천한다.
 
 * [<strong>아나콘다<font size='2'>Anaconda</font>](https://www.anaconda.com/download)</strong>: 데이터 과학과 머신러닝에 필요한 다양한 라이브러리를 포함한 파이썬 배포판이다.
-* [<strong>VS Code<font size='2'>Visual Studio Code</font>](https://code.visualstudio.com/)</strong>: 마이크로소프트에서 개발한 가볍고 강력한 소스 코드 편집기로, 파이썬 개발을 위한 풍부한 확장 기능을 제공한다.
+* [<strong>비주얼 스튜디오 코드<font size='2'>Visual Studio Code</font>(VS Code)](https://code.visualstudio.com/)</strong>: 마이크로소프트에서 개발한 가볍고 강력한 소스 코드 편집기로, 파이썬 개발을 위한 풍부한 확장 기능을 제공한다.
 
 ## 책 구성
 

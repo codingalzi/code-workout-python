@@ -108,7 +108,7 @@ else:                        # 그렇지 않다면
 개발자 커뮤니티에서 파이썬의 인기는 압도적이다. 프로그래밍 언어 순위를 매기는 [TIOBE 인덱스](https://www.tiobe.com/tiobe-index)에서 파이썬은 수년째 1위를 지키고 있다.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codingalzi/code-workout-python/master/jupyter-book/images/tiobe-index.png" style="width:750px" alt="TIOBE Index">
+  <img src="https://raw.githubusercontent.com/codingalzi/code-workout-python/master/images/tiobe-index.png" style="width:750px" alt="TIOBE Index">
   <p><em>파이썬은 전 세계에서 가장 사랑받는 언어다.</em></p>
 </div>
 

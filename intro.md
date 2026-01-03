@@ -49,5 +49,3 @@
 
 이 책의 내용 중 오류를 발견하거나 질문이 있다면 [GitHub 저장소](https://github.com/codingalzi/code-workout-python/issues)의 이슈(Issues) 탭을 이용해 주세요. 
 여러분의 피드백은 더 좋은 책을 만드는 데 큰 도움이 됩니다.
-
-자, 이제 파이썬의 세계로 함께 떠나보자.

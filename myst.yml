@@ -15,6 +15,9 @@ project:
     - file: intro.md
     - file: programming.md
     - file: README.md
+  jupyter:
+    binder:
+      repo: https://github.com/executablebooks/thebe-binder-base
 
 site:
   template: book-theme

@@ -3,22 +3,36 @@ version: 1
 project:
   id: bfa66ee1-fd85-4563-8fb7-04c22ec8dbd3
   title: '42H: 파이썬'
+  # authors:
+  #   - name: 코딩알지
+
   numbering:
-    title: false
-    headings: true
+    title: true
+    # headings: true
   # description:
   # keywords: []
   # authors: []
   github: https://github.com/codingalzi/code-workout-python
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  
+  exports:
+    - format: typst
+      template: https://github.com/myst-templates/plain_typst_book.git 
+      output: exports/MechaRela.pdf
+      id: output-pdf1
+      logo: logo_TUD.png
+      cover: cover.png
+      
+  # jupyter:
+  #   binder:
+  #     repo: https://github.com/executablebooks/thebe-binder-base
+
+# To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: intro.md
     - file: programming.md
-    - file: README.md
-  jupyter:
-    binder:
-      repo: https://github.com/executablebooks/thebe-binder-base
-
+    - file: starting.ipynb
+  
+  
 site:
   template: book-theme
   options:

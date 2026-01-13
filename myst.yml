@@ -44,7 +44,10 @@ project:
     - file: intro.md
     - file: programming.md
     - file: starting.ipynb
-  
+    - file: values.ipynb
+    - file: logical.ipynb
+    - file: expressions_dataTypes.ipynb
+    - file: inputs.ipynb
   
 site:
   template: book-theme

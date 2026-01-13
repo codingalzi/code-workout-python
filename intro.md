@@ -47,5 +47,5 @@
 
 ## 피드백 및 문의
 
-이 책의 내용에서 오류를 발견하거나, 관련 질문이 있다면 언제든지 [GitHub 저장소](https://github.com/codingalzi/code-workout-python/issues)의 이슈(Issues) 탭을 이용해 주세요.
+이 책의 내용에서 오류를 발견하거나, 관련 질문이 있다면 언제든지 [GitHub 저장소의 Issues 탭](https://github.com/codingalzi/code-workout-python/issues)을 이용해 주세요.
 여러분의 피드백은 더 좋은 내용을 만드는 데 큰 도움이 됩니다.

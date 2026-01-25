@@ -7,12 +7,8 @@ project:
     - https://github.com/jupyter-book/myst-plugins/releases/download/Admonitions/intermezzo-admonition.mjs
     - https://github.com/TUD-JB-Templates/JB2_plugins/releases/download/example/example.mjs
     - https://github.com/jupyter-book/myst-plugins/releases/download/updated-date-frontmatter/update-date-frontmatter.mjs
-    # - plugins/aside.mjs
-    # - https://github.com/jupyter-book/myst-plugins/releases/download/Admonitions/example-admonition.mjs
-    # - https://github.com/jupyter-book/myst-plugins/releases/download/iframe-to-qr-pdf/iframe-to-qr-pdf.mjs
-    # - plugins/iframe2.mjs    
-    # - plugins/typst_eq.mjs              # for unknown symbols in typst
     - https://github.com/jupyter-book/myst-plugins/releases/download/page-last-updated/page-last-updated.mjs
+
 
   id: bfa66ee1-fd85-4563-8fb7-04c22ec8dbd3
   title: '42H: 파이썬'
@@ -55,5 +51,3 @@ site:
     # logo_text: "코딩알지"
     favicon: favicon.ico
     logo: codingalzi.svg
-  parts:
-    primary_sidebar_footer: footer.md

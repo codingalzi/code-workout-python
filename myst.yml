@@ -15,9 +15,9 @@ project:
   # authors:
   #   - name: 코딩알지
 
-  numbering:
+  numbering: 
     title: true
-    # headings: true
+    headings: true
   # description:
   # keywords: []
   # authors: []

@@ -41,8 +41,8 @@ project:
     - file: programming.md
     - file: starting.ipynb
     - file: values.ipynb
-    - file: logical.ipynb
     - file: expressions_dataTypes.ipynb
+    - file: logical.ipynb
     - file: inputs.ipynb
   
 site:

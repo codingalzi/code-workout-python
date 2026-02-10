@@ -38,7 +38,7 @@ project:
 # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: intro.md
-    - file: programming.md
+    # - file: programming.md
     - file: starting.ipynb
     - file: values.ipynb
     - file: expressions_dataTypes.ipynb

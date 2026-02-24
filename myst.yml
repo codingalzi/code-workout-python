@@ -42,8 +42,11 @@ project:
     - file: starting.ipynb
     - file: values.ipynb
     - file: expressions_dataTypes.ipynb
+    - file: functions.ipynb
+    - file: modules.ipynb
     - file: logical.ipynb
-    - file: inputs.ipynb
+    - file: iteration_for.ipynb
+    - file: iteration_while.ipynb
   
 site:
   template: book-theme

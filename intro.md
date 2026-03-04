@@ -161,16 +161,26 @@ else:                       # 그렇지 않다면
 ## 실습 환경
 
 파이썬 프로그래밍을 위해 코드를 작성하고 실행할 수 있는 환경이 필요하다.
-입문자에게는 별도의 설치 없이 인터넷 브라우저만으로 바로 시작할 수 있는 다음 두 **클라우드 환경**을 추천한다.
+입문자에게는 별도의 설치 없이 인터넷 브라우저만으로 바로 시작하거나 자신의 컴퓨터에 실습환경을 설정할 수 있다.
 
-* [<strong>구글 코랩<font size='2'>Google Colab</font>](https://colab.research.google.com/)</strong>: 구글 계정만 있으면 브라우저에서 바로 파이썬 코드를 작성하고 실행할 수 있다. 데이터 분석과 머신러닝에 최적화되어 있다.
-* [<strong>깃허브 코드스페이스<font size='2'>GitHub Codespaces</font>](https://github.com/features/codespaces)</strong>: [<strong>깃허브<font size='2'>GitHub</font></strong>](https://github.com/) 저장소와 연동하여 실제 개발 환경과 유사한 경험을 제공한다.
+**구글 코랩**
 
-물론 자신의 컴퓨터에 직접 개발 환경을 구축할 수도 있다. 인터넷 연결 없이도 작업할 수 있으며, 더 자유로운 설정이 가능하다.
-로컬 환경 구축을 원한다면 다음 도구들을 추천한다.
+[<strong>구글 코랩<font size='2'>Google Colab</font>](https://colab.research.google.com/)</strong>에서 구글 계정만 있으면 브라우저에서 바로 파이썬 코드를 작성하고 실행할 수 있으며, 데이터 분석과 머신러닝에 최적화되어 있다.
 
-* [<strong>아나콘다<font size='2'>Anaconda</font>](https://www.anaconda.com/download)</strong>: 데이터 과학과 머신러닝에 필요한 다양한 라이브러리를 포함한 파이썬 배포판이다.
-* [<strong>비주얼 스튜디오 코드<font size='2'>Visual Studio Code</font>(VS Code)](https://code.visualstudio.com/)</strong>: 마이크로소프트에서 개발한 가볍고 강력한 소스 코드 편집기로, 파이썬 개발을 위한 풍부한 확장 기능을 제공한다.
+**비주얼 스튜디오 코드와 아나콘다 라이브러리**
+
+[<strong>비주얼 스튜디오 코드<font size='2'>Visual Studio Code</font>](https://code.visualstudio.com/)</strong>는 마이크로소프트에서 개발한 가볍고 강력한 소스 코드 편집기로, 파이썬 개발을 위한 풍부한 확장 기능을 제공한다.
+보통 **VS Code** 약칭으로 불린다.
+
+VS Code는 코드 작성 편집기로 파이썬을 실행하려면 파이썬 실행기 또한 자신의 컴퓨터에 설치해야 한다.
+파이썬 실행기는 다양한 방식으로 설치될 수 있으며, 여기서는
+데이터 과학과 머신러닝 분야에서 가장 많이 활용되는 라이브러리 중에 하나인
+[<strong>아나콘다<font size='2'>Anaconda</font>](https://www.anaconda.com/download)</strong>를 설치할 것을 추천한다.
+
+**비주얼 스튜디오 코드와 구글 코랩**
+
+VS Code 편집기에 대한 파이썬 실행기로 구글 코랩을 선택할 수 있도 있다.
+설치요령과 사용법은 [동영상](https://youtu.be/OZf60mJ__74?si=0-S-BAVBIAVXxY8d)를 참고한다.
 
 ## 피드백
 

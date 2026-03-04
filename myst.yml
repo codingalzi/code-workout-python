@@ -42,7 +42,7 @@ project:
     - file: starting.ipynb
     - file: values.ipynb
     - file: expressions-datatypes.ipynb
-    - file: logical.ipynb
+    - file: conditional.ipynb
     - file: functions.ipynb
     - file: modules.ipynb
     - file: iteration-for.ipynb

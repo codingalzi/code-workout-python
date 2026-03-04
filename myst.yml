@@ -41,12 +41,12 @@ project:
     # - file: programming.md
     - file: starting.ipynb
     - file: values.ipynb
-    - file: expressions_datatypes.ipynb
+    - file: expressions-datatypes.ipynb
     - file: logical.ipynb
     - file: functions.ipynb
     - file: modules.ipynb
-    - file: iteration_for.ipynb
-    - file: iteration_while.ipynb
+    - file: iteration-for.ipynb
+    - file: iteration-while.ipynb
   
 site:
   template: book-theme

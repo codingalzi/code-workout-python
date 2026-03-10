@@ -9,15 +9,13 @@ project:
     - https://github.com/jupyter-book/myst-plugins/releases/download/updated-date-frontmatter/update-date-frontmatter.mjs
     - https://github.com/jupyter-book/myst-plugins/releases/download/page-last-updated/page-last-updated.mjs
 
-
   id: bfa66ee1-fd85-4563-8fb7-04c22ec8dbd3
   title: '42H: 파이썬'
-  # authors:
-  #   - name: 코딩알지
 
   numbering: 
     title: true
     headings: true
+
   # description:
   # keywords: []
   # authors: []
@@ -31,10 +29,6 @@ project:
       logo: logo_TUD.png
       cover: cover.png
       
-  # jupyter:
-  #   binder:
-  #     repo: https://github.com/executablebooks/thebe-binder-base
-
 # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: intro.md
@@ -51,6 +45,5 @@ project:
 site:
   template: book-theme
   options:
-    # logo_text: "코딩알지"
     favicon: favicon.ico
     logo: codingalzi.svg

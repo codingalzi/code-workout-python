@@ -38,10 +38,10 @@ project:
     - file: expressions-datatypes.ipynb
     - file: conditional.ipynb
     - file: functions.ipynb
-    - file: modules.ipynb
     - file: iteration-for.ipynb
     - file: iteration-while.ipynb
-  
+    - file: modules.ipynb
+    
 site:
   template: book-theme
   options:

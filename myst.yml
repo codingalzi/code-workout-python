@@ -41,6 +41,11 @@ project:
     - file: iteration-for.ipynb
     - file: iteration-while.ipynb
     - file: modules.ipynb
+    - file: strings-part1.ipynb
+    - file: strings-part2.ipynb
+    - file: lists-tuples.ipynb
+    - file: dictionaries.ipynb
+    - file: files.ipynb
     
 site:
   template: book-theme

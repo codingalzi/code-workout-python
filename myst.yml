@@ -46,6 +46,9 @@ project:
     - file: lists-tuples.ipynb
     - file: dictionaries.ipynb
     - file: files.ipynb
+    - file: oop.ipynb
+    - file: oop-classes_instances_objects.ipynb
+    - file: oop-inheritance.ipynb
     
 site:
   template: book-theme

@@ -44,7 +44,7 @@ project:
     - file: strings-part1.ipynb
     - file: strings-part2.ipynb
     - file: lists-tuples.ipynb
-    - file: dictionaries.ipynb
+    - file: dicts-sets.ipynb
     - file: files.ipynb
     - file: oop.ipynb
     - file: oop-classes_instances_objects.ipynb

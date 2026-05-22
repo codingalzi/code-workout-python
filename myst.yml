@@ -47,7 +47,6 @@ project:
     - file: dicts-sets.ipynb
     - file: files.ipynb
     - file: oop.ipynb
-    - file: oop-classes_instances_objects.ipynb
     - file: oop-inheritance.ipynb
     
 site:

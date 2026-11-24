@@ -10,7 +10,7 @@ project:
     - https://github.com/jupyter-book/myst-plugins/releases/download/page-last-updated/page-last-updated.mjs
 
   id: bfa66ee1-fd85-4563-8fb7-04c22ec8dbd3
-  title: '42H: 파이썬'
+  title: '파이썬 프로그래밍 입문'
 
   numbering: 
     title: true
